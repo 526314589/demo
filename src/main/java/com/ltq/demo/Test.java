@@ -6,4 +6,7 @@ package com.ltq.demo;
  * @描述
  */
 public class Test {
+    public static void main (String[] args) {
+        System.out.println (111111 );
+    }
 }
